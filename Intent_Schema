@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Index",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "GetIndexFactIntent"
+    },
+    {
+      "intent": "GetNewFactIntent"
+    },
+    {
+      "intent": "GetFullSagaIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
