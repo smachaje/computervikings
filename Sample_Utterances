@@ -1,0 +1,29 @@
+GetIndexFactIntent about story {Index}
+GetIndexFactIntent story {Index}
+GetIndexFactIntent to tell me story {Index}
+GetIndexFactIntent to tell me story number {Index}
+GetIndexFactIntent ask Floki to tell me story {Index}
+GetNewFactIntent tell me a story
+GetNewFactIntent tell me a viking story
+GetNewFactIntent tell me a computer story
+GetNewFactIntent a fact
+GetNewFactIntent a viking fact
+GetNewFactIntent a computer fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a viking fact
+GetNewFactIntent tell me a computer fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a computer fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a computer trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a computer trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some computer information
+GetNewFactIntent give me some viking information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
+GetFullSagaIntent tell me the saga
+GetFullSagaIntent tell me full saga
+GetFullSagaIntent full saga
+GetFullSagaIntent viking saga
