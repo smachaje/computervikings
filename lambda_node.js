@@ -50,8 +50,12 @@ var SPACE_FACTS = [
 
 /**
  * The AlexaSkill prototype and helper functions
- */
+
+Older Lambda interface use AlexaSkill directory.  You can check in environment explorer under project -> node_modules if you have alexa-sdk or AlexaSkill
+
 var AlexaSkill = require('./AlexaSkill');
+*/
+var AlexaSkill = require('./alexa-sdk');
 
 /**
  * SpaceGeek is a child of AlexaSkill.
