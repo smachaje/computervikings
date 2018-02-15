@@ -13,3 +13,5 @@ https://www.amazon.com/Computers-Storified-Viking-History-Floki/dp/B01DR4ZFPK
 [Preview how the skill works on FireTV](https://www.youtube.com/watch?v=a99Cpf2LmiE)
 
 [Adding PHP to the Lambda function](https://www.youtube.com/embed/8db579glR1U)
+
+arn:aws:lambda:us-east-1:653863024683:function:ComputerVikings5
