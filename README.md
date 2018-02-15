@@ -7,3 +7,5 @@ https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1
 
 The skill:
 https://www.amazon.com/Computers-Storified-Viking-History-Floki/dp/B01DR4ZFPK
+
+[Preview how the skill works](https://www.youtube.com/watch?v=a99Cpf2LmiE)
